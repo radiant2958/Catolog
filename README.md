@@ -16,7 +16,7 @@ Catalog — это веб-приложение, созданное с испол
 ### **1. Клонирование репозитория**
 
 ```bash
-git clone [https://github.com/<ваш_пользователь>/<имя_репозитория>.git](https://github.com/radiant2958/Catolog.git)
+git clone https://github.com/radiant2958/Catolog.git
 ```
 
 ### **2. Создайте .env файл**
